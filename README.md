@@ -26,3 +26,15 @@ Nedanför kommer de olika kommandon som jag använde.
 
     skapar en verision i historiken
 ---
+
+## Förklaringar
+
+* Repository
+
+  Ett repository är själva projektets mapp där alla filer och information om projektet finns.
+* Commit
+
+  En commit är som att ta en ögonblicksbild av projektet och spara den.
+* Verisionshistorik
+
+  Med verisionshistorik menar man en lista över alla commits som har gjorts i projektet.
