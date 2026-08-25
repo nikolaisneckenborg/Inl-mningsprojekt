@@ -1,0 +1,1 @@
+Ett gemensamt repository använda för att kunna samla projektets kod på en gemensam plats så att alla i teamet kan hämta, ändra och dela kod samt kunna se vem som har gjort vad.
