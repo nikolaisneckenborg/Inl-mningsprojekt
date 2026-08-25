@@ -13,16 +13,16 @@ Nedanför kommer de olika kommandon som jag använde.
 * git init
 
   skapar ett repository
---
+---
 * git status
 
   visar vilka filer som ändrats och vad Git känner till
---
+---
 * git add .
 
     la till alla ändringar för alla filer inför nästa commit
---
+---
 * git commit -m "meddelande"
 
     skapar en verision i historiken
---
+---
